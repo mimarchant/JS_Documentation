@@ -3,6 +3,7 @@ body{
     padding: 0;
     margin-top: 0;
     color: black;
+    padding-top: 70px;
 }
 
 code{
@@ -29,3 +30,11 @@ header{
 article {
      margin: 20px
 }
+
+.main{
+
+}
+
+.fa-bars {
+    color: darkgreen;
+} 
